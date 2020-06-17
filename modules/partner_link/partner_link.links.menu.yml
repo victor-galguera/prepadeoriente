@@ -1,0 +1,7 @@
+partner_link.settings.form:
+  title: Partner Link Settings
+  description: 'Administer the partner links settings.'
+  route_name: partner_link.settings.form
+  parent: system.admin_config_content
+  requirements:
+    _permission: 'administer partner link'

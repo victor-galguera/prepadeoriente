@@ -1,0 +1,12 @@
+name: YouTube Import
+description: Custom module created to import a YouTube channel.
+package: Other
+type: module
+# core: 8.x
+configure: youtube_import.admin
+
+# Information added by Drupal.org packaging script on 2018-05-09
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'youtube_import'
+datestamp: 1525874289

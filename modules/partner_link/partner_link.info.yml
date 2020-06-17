@@ -1,0 +1,16 @@
+name: 'Partner Link'
+type: module
+core: 8.x
+dependencies:
+  - drupal:field
+  - drupal:file
+  - drupal:image
+  - drupal:link
+  - drupal:path
+  - drupal:taxonomy
+  - drupal:text
+
+# Information added by Drupal.org packaging script on 2019-11-07
+version: '8.x-1.0'
+project: 'partner_link'
+datestamp: 1573144756

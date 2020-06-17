@@ -1,0 +1,5 @@
+name: Feeds Target
+type: module
+description: Agregar campos custom a feeds target.
+package: Feeds
+core: 8.x

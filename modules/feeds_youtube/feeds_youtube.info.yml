@@ -1,0 +1,14 @@
+name: Feeds YouTube
+description: Fetches YouTube videos via Google API v3.
+core: 8.x
+package: Feeds
+type: module
+dependencies:
+  - pcb:pcb
+  - feeds:feeds
+  - drupal:system (>=8.6.0)
+
+# Information added by Drupal.org packaging script on 2019-09-09
+version: '8.x-1.x-dev'
+project: 'feeds_youtube'
+datestamp: 1568062989

@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+  .we-mega-menu-submenu li.we-mega-menu-li {
+      /*display: contents;*/
+      width: 100%;
+      float: none;
+  }
+  .we-mega-menu-submenu li.we-mega-menu-li a {
+    width: 100%;
+  }
+}

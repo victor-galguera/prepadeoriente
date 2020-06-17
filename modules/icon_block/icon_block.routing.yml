@@ -1,0 +1,7 @@
+icon_block.autocomplete:
+  path: '/icons-autocomplete'
+  defaults:
+    _controller: '\Drupal\icon_block\Controller\AutocompleteController::handleIcons'
+  methods: [GET]
+  requirements:
+    _access: 'TRUE'

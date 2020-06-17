@@ -1,0 +1,12 @@
+name: Guestbooks
+type: module
+description: 'To track the guestbooks entries for site.'
+package: Other
+# version: VERSION
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2017-01-03
+version: '8.x-1.0'
+core: '8.x'
+project: 'guestbooks'
+datestamp: 1483424950

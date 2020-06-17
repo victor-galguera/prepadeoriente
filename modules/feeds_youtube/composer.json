@@ -1,0 +1,11 @@
+{
+  "name": "drupal/feeds_youtube",
+  "type": "drupal-module",
+  "description": "Fetches YouTube videos via Google API v3.",
+  "homepage": "http://drupal.org/project/feeds_youtube",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "google/apiclient": "^2.0"
+  }
+}

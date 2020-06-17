@@ -1,0 +1,7 @@
+elfsight_whatsapp_chat.content:
+  path: 'admin/elfsight_whatsapp_chat'
+  defaults:
+    _controller: '\Drupal\elfsight_whatsapp_chat\Controller\ElfsightWhatsappChatController::content'
+    _title: 'Elfsight WhatsApp Chat'
+  requirements:
+    _permission: 'access admin'

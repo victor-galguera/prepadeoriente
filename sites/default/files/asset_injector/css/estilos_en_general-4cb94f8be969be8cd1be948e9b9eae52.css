@@ -1,0 +1,44 @@
+.layout__region--first,
+.layout__region--second {
+    padding: 10px;
+}
+.block-field-blockparagraphactividad-extraescolarfield-nombre-actividad {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.varbase-heroslider-media .node--type-varbase-heroslider-media .hero-slide-content {
+    background: rgb(0,0,0,0.5);
+}
+
+#block-fblikebox {
+    text-align: center;
+}
+
+.form-email, .form-text, .form-textarea {
+    display: inline-block;
+    border: 1px solid #0f0f0f;
+    background: transparent;
+}
+input, button, select, textarea {
+    padding: 0;
+    border: 1px solid #0f0f0f;
+}
+@media (min-width: 767px) {
+  .container {
+      max-width: 1180px;
+  }
+}
+
+.custom-block-title h1 {
+    font-size: 1.5em;
+    display: inline-block;
+    border-bottom: 1px solid #e8e5e5;
+    font-weight: 500;
+    padding-bottom: 5px;
+    text-shadow: 3px 2px 5px #ececec;
+}
+
+
+
+

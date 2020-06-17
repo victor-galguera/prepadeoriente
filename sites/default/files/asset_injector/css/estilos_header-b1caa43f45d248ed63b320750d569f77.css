@@ -1,0 +1,65 @@
+#block-cheeseburgermenu {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .top-nav,
+  #block-navegacionprincipal {
+    display: none;
+  }
+  .site-branding {
+    width: 30%;
+    padding-left: 0;
+  }
+  #block-cheeseburgermenu {
+    display: none;
+  }
+  .region-primary-menu {
+    background: #32469f;
+  }
+}
+
+@media (max-width: 767px) {
+  #block-cheeseburgermenu {
+    display: block;
+  }
+}
+
+@media (min-width: 767px){
+  .navbar-toggle {
+    display: none;
+  }
+}
+.top-nav {
+    padding: 5px 15px;
+}
+.region-header {
+    padding: 0;
+}
+.navbar {
+    margin-top: 20px;
+}
+
+.navbar-toggle {
+    padding: 15px 0;
+    font-size: 40px;
+}
+
+.svg-inline--fa {
+    color: #32469f;
+}
+
+/*.cheeseburger-menu__navigation-list-item--main {
+    display: none;
+}*/
+
+.cheeseburger-menu__menu-list ul li {
+  list-style: none;
+  padding: 5px;
+}
+
+.cheeseburger-menu__menu-list ul li a,
+.cheeseburger-menu__menu-list ul li span {
+  color: #f5f5f5;
+}
+

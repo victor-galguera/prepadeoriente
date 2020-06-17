@@ -1,0 +1,6 @@
+elfsight_whatsapp_chat.admin:
+  title: 'Elfsight WhatsApp Chat settings'
+  description: 'Elfsight WhatsApp Chat module settings'
+  parent: system.admin_config_development
+  route_name: elfsight_whatsapp_chat.content
+  weight: 100

@@ -1,0 +1,14 @@
+partner_link.partners:
+  path: '/partners'
+  defaults:
+    _controller: '\Drupal\partner_link\Controller\PartnersController::content'
+    _title: 'Partners'
+  requirements:
+    _permission: 'access content'
+partner_link.settings.form:
+  path: '/admin/config/partner-link/settings'
+  defaults:
+    _form: '\Drupal\partner_link\Form\PartnerLinkSettingsForm'
+    _title: 'Partner Link Settings'
+  requirements:
+    _permission: 'administer partner link'
